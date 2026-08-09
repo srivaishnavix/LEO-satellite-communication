@@ -1,10 +1,6 @@
 # LEO-satellite-communication
 This is a thesis project on Smooth Handover framework for LEO satellites.
 
-# LEO-satellite-communication
-
-Thesis project on **Smooth Handover in LEO satellite communication**.
-
 The project is being built from the ground up, starting with the satellite and ground station environment, then moving towards handover between LEO satellites and later networking.
 
 ## Project Goals
